@@ -1,7 +1,7 @@
 # algorithmic_complexity
 Response at algorithmic complexity calculations
 
-Condition you see this [link]()
+Condition you see this [link](https://github.com/netology-code/algocpp-homeworks/tree/main/1/01)
 
 # Задача 1. Оценка алгосложности программы
 Дан код на языке `C++`. Ваша задача понять и описать, что он делает, определить его асимптотику, то есть время и дополнительную память, и привести аргументы, почему она именно такая.
